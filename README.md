@@ -61,21 +61,20 @@ Coupling (dB) = 10 log10 PC1/ PH = -10 log10 PC2/ PH.
 The difference in the attenuator settings gives the ration of the
 power coupled to thecollinear to that in the main arm, in dB. This value is around 3dB.
 
-**F.	Observation: ( Include your own Table relevant to the Experiment)**
+**F.	Observation:**
 
 **Isolation measurement** (Tabulation)
 
-<img width="1076" height="173" alt="image" src="https://github.com/user-attachments/assets/e56b1369-11d1-42a1-b2b6-488a55a86615" />
+**Measurement of power division** 
 
+![WhatsApp Image 2025-11-06 at 08 56 03_2052feda](https://github.com/user-attachments/assets/54eb8148-ba8e-4846-a11e-83823fc7267a)
 
-**Measurement of power division** (Tabulation)
-
-<img width="1096" height="214" alt="image" src="https://github.com/user-attachments/assets/5b8e77ca-10e9-4286-a6e4-36b32d15c9c7" />
 
 
 **G.	Analysis of Results: (Write your own)**
 
-Isolation = A₁ − A₂ = 20.0 − 1.0 = 19.0 dB. Interpretation: only ~1/79 of the power fed into the E-arm appears at the H-arm (good isolation). Power division (coupling to collinear arm) = A₁ − A₂ = 20.0 − 17.0 = 3.0 dB. Interpretation: input power splits equally between the two collinear arms (each receives ≈ half the power).
+![WhatsApp Image 2025-11-06 at 08 56 02_a8e723f1](https://github.com/user-attachments/assets/b9a362ae-ba6b-4847-8bd8-f4ef88b1e949)
+
 
 **H.	Conclusions: (Write your Own)**
 
@@ -90,4 +89,4 @@ Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 
 **Result:**
 
-Isolation between E and H arms ≈ 19 dB; power division in the collinear arms ≈ 3 dB (equal split).
+The isolation between the E and H arms of the magic tee was successfully measured and found to be within the expected range, indicating proper isolation between the ports. The power division between the collinear arms was observed to be approximately 3 dB, confirming that the magic tee equally divides the input power into two arms with minimal loss. Thus, the magic tee functions effectively as a hybrid junction for power division and signal isolation in microwave systems.
